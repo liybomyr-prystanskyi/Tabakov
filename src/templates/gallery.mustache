@@ -1,0 +1,65 @@
+{{#gallery-carousel}}
+<section class="content-block">
+  <div class="container main-container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-10">
+        <div class="section-title text-center">
+          <div data-parent="{{data-about-title}}" class="txt-shadow gallery">
+            <h2>
+              {{about-title}}
+            </h2>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-10">
+        <div class="gallery-carousel d-none d-lg-block" data-js="gallery-carousel">
+          {{#slides}}
+          <div class="gallery-carousel__slide">
+            <div class="row no-gutters gallery-title">
+              <div class="col-12 col-lg-5 p-2 text-left">
+                <a href="#" class="slide-outer d-block" style="background-image: url(assets/img/{{slide-name-1}}.jpg);"></a>
+                <h2>Наша подорож в Італію</h2>
+              </div>
+              <div class="col-12 col-lg-7 p-2 text-left">
+                <a href="#" class="slide-outer d-block" style="background-image: url(assets/img/{{slide-name-2}}.jpg);"></a>
+                <h2>Наша подорож в Італію</h2>
+              </div>
+              <div class="col-12 col-lg-7 p-2 text-left">
+                <a href="#" class="slide-outer d-block" style="background-image: url(assets/img/{{slide-name-3}}.jpg);"></a>
+                <h2>Наша подорож в Італію</h2>
+              </div>
+              <div class="col-12 col-lg-5 p-2 text-left">
+                <a href="#" class="slide-outer d-block" style="background-image: url(assets/img/{{slide-name-4}}.jpg);"></a>
+                <h2>Наша подорож в Італію</h2>
+              </div>
+            </div>
+          </div>
+          {{/slides}}
+        </div>
+        <div class="gallery-carousel__min d-block d-lg-none" data-js="gallery-carousel_min">
+          {{#slides-min}}
+          <div class="gallery-carousel__slide">
+            <div class="row no-gutters">
+              <div class="col-12">
+                <a href="#" class="slide-outer d-block img-fluid" style="background-image: url(assets/img/{{slide-name}}.jpg);"></a>
+              </div>
+            </div>
+          </div>
+          {{/slides-min}}
+        </div>
+      </div>
+      <div class="col-12 text-center gallery-carousel-ctrl">
+        <div class="dots-place dots-place_white d-none d-lg-none"></div>
+        <div class="dots-place_m dots-place_white  d-lg-none"></div>
+      </div>
+      {{#gallery-btn}}
+      <div class="gallery-batton ">
+        <a href="#" class="gallery-btn violet">{{gallery-btn}}</a>
+      </div>
+      {{/gallery-btn}}
+    </div>
+  </div>
+</section>
+{{/gallery-carousel}}

@@ -1,0 +1,30 @@
+{{#advantages-section}}
+<section class="advantages">
+	<div class="container main-container">
+		<div class="advantages__main">
+			<div title-data-advantages="{{title}}" class="advantages__main__title-default-text-shadow ">
+				<h2>{{title}}</h2>
+			</div>
+			<div class="advantages__main__block">
+				<div class="advantages__main__block__wrapper col-12 col-lg-10 ">
+					{{#item-info}}
+					<div class="advantages__main__block__wrapper__item col-12 col-lg-6">
+						<div class="advantages__main__block__wrapper__item__main">
+							<div class="advantages__main__block__wrapper__item__main__content">
+								<img src="{{image}}" alt="image" />
+								<h4>{{title}}</h4>
+							</div>
+							<div class="advantages__main__block__wrapper__item__main__content__description">
+								<p>{{description}}
+								</p>
+							</div>
+						</div>
+					</div>
+					{{/item-info}}
+				</div>
+			</div>
+		</div>
+	</div>
+	</div>
+</section>
+{{/advantages-section}}

@@ -1,0 +1,32 @@
+{{#achievement-section}}
+
+<section class="achievement">
+  <div class="container main-container">
+    <div class="achievement__main">
+      <div data-parent="{{title-default}}" class="advantages__main__title-default-text-shadow txt-shadow ">
+        <h2>{{title}}</h2>
+      </div>
+      <div class="achievement__main__block">
+        <div class="achievement__main__block__wrapper col-12 col-lg-10 ">
+          {{#item-info}}
+          <div class="achievement__main__block__wrapper__item col-12 col-lg-6">
+            <div class="achievement__main__block__wrapper__item__main">
+              <div class="achievement__main__block__wrapper__item__main__content">
+                <img src="{{image}}" alt="image" />
+                <h2>{{title}}</h2>
+              </div>
+              <div class="achievement__main__block__wrapper__item__main__content__description">
+                <p>{{description}}
+                </p>
+              </div>
+            </div>
+          </div>
+          {{/item-info}}
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+</section>
+
+{{/achievement-section}}

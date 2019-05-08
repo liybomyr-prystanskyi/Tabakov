@@ -1,0 +1,39 @@
+{{#teachers-carousel}}
+<section class="content-block">
+  <div class="container main-container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-10">
+        <div class="row">
+          <div class="col-12">
+            <div class="section-title  text-center">
+              <div data-parent="{{data-teachers-title}}" class="txt-shadow txt-teachers">
+                <h2>
+                  {{about-title}}
+                </h2>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12">
+            <div data-js="teachers-carousel">
+              {{#slides}}
+              <!-- Slide -->
+              <div class="teachers-carousel__slide mx-3">
+                <div class="slide-outer" style="background-image: url(assets/img/{{slide-name}}.jpg);"></div>
+                <div class="info-section text-center">
+                  <h4>{{slide-title}}</h4>
+                  <p>{{slide-description}}</p>
+                  <a href="#" class="btn btn_slide-more violet">Дізнитись більше</a>
+                </div>
+              </div>
+              <!-- /Slide -->
+              {{/slides}}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{/teachers-carousel}}

@@ -1,0 +1,166 @@
+{{#foot}}
+<footer class="footer">
+  <div class="container">
+    <p>2018 All Rights reserved</p>
+  </div>
+</footer>
+{{#vendor-scripts}}
+{{#jquery}}
+<!-- Jquery -->
+<script src="assets/js/vendors/jquery-3.3.1.js"></script>
+{{/jquery}}
+{{#slick-slider}}
+<!-- Slick slider -->
+<script src="assets/js/vendors/slick.min.js"></script>
+{{/slick-slider}}
+{{#aos}}
+<!-- Animate on scroll -->
+<script src="assets/js/vendors/aos.js"></script>
+{{/aos}}
+{{#sort-table}}
+<script src="assets/js/vendors/jquery.tablesorter.js"></script>
+{{/sort-table}}
+
+{{#bootstrap}}
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+{{/bootstrap}}
+{{/vendor-scripts}}
+<!-- Custom script -->
+<script src="assets/js/script.min.js"></script>
+<!-- Sliders -->
+
+<script>
+  var mainCarousel = $('*[data-js="main-carousel"]').length;
+  var teacherCarousel = $('*[data-js="teachers-carousel"]').length;
+  var feedCarousel = $('*[data-js="feed-carousel"]').length;
+  var galleryCarousel = $('*[data-js="gallery-carousel"]').length;
+  var galleryCarouselmin = $('*[data-js="gallery-carousel_min"]').length;
+  // Main carousel
+  if (mainCarousel > 0) {
+    $('*[data-js="main-carousel"]').slick({
+      slidesToShow: 1,
+      slideToScroll: 1,
+      autoplay: false,
+      autoplaySpeed: 4000,
+      infinite: true,
+      arrows: false,
+      dots: true,
+      appendDots: $('.main-carousel .dots-place'),
+      responsive: [
+        {
+          breakpoint: 480,
+          settings: {
+            arrows: false,
+            dots: false,
+            slidesToShow: 1
+          }
+        }
+      ]
+
+    });
+  }
+
+  // teacher carousel        
+  if (teacherCarousel > 0) {
+    $('*[data-js="teachers-carousel"]').slick({
+      slidesToShow: 3,
+      slideToScroll: 1,
+      autoplay: false,
+      autoplaySpeed: 4000,
+      infinite: true,
+      dots:false,
+      arrows: false,
+      prevArrow: "<a href=\"#\" class=\"slider-arr slider-arr_prev\"></a>",
+      nextArrow: "<a href=\"#\" class=\"slider-arr slider-arr_next\"></a>",
+      responsive: [
+        {
+          breakpoint: 992,
+          settings: {
+            dots: true,
+            slidesToShow: 2
+          }
+        },
+        {
+          breakpoint: 768,
+          settings: {
+            dots: true,
+            slidesToShow: 1
+          }
+        }
+      ]
+    });
+  }
+  // feed carousel        
+  if (feedCarousel > 0) {
+    $('*[data-js="feed-carousel"]').slick({
+      slidesToShow: 2,
+      slideToScroll: 1,
+      autoplay: false,
+      autoplaySpeed: 4000,
+      infinite: true,
+      arrows: true,
+      dots: false,
+      appendDots: $('.feed-carousel-ctrl .dots-place'),
+      prevArrow: "<a href=\"#\" class=\"slider-arr slider-arr_prev slider-arr_f \"></a>",
+      nextArrow: "<a href=\"#\" class=\"slider-arr slider-arr_next slider-arr_f\"></a>",
+      responsive: [
+        {
+          breakpoint: 768,
+          settings: {
+            dots: true,
+            slidesToShow: 1
+          }
+        }
+      ]
+    });
+  }
+  // gallery carousel        
+  if (galleryCarousel > 0) {
+    $('*[data-js="gallery-carousel"]').slick({
+      slidesToShow: 1,
+      slideToScroll: 1,
+      autoplay: false,
+      autoplaySpeed: 4000,
+      infinite: true,
+      dots: true,
+      appendDots: $('.gallery-carousel-ctrl .dots-place'),
+      arrows: true,
+      prevArrow: "<a href=\"#\" class=\"slider-arr slider-arr_prev slider-arr_g\"></a>",
+      nextArrow: "<a href=\"#\" class=\"slider-arr slider-arr_next slider-arr_g\"></a>",
+      responsive: [
+        {
+
+        }
+      ]
+    });
+  }
+
+
+  if (galleryCarouselmin > 0) {
+    $('*[data-js="gallery-carousel_min"]').slick({
+      slidesToShow: 1,
+      slideToScroll: 1,
+      autoplay: false,
+      autoplaySpeed: 4000,
+      infinite: true,
+      dots: true,
+      appendDots: $('.gallery-carousel-ctrl .dots-place_m'),
+      arrows: true,
+      prevArrow: "<a href=\"#\" class=\"slider-arr slider-arr_prev\"></a>",
+      nextArrow: "<a href=\"#\" class=\"slider-arr slider-arr_next\"></a>",
+      responsive: [
+        {
+
+        }
+      ]
+    });
+  }
+</script>
+
+<script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDxkUUlSbRNNNbTvIKVa1tLmbhQfrgq45g&callback=initMap">
+
+</script>
+</body>
+
+</html>
+{{/foot}}

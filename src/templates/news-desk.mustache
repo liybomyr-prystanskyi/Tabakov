@@ -1,0 +1,48 @@
+{{#news-teasers}}
+<section class="content-block {{additional-classes}}">
+  <div class="container main-container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-10">
+        <div class="news">
+          <div class="section-title">
+            <div data-parent="{{data-feed-title}}" class="txt-shadow txt-feed">
+              <h2>
+                {{about-title}}
+              </h2>
+            </div>
+          </div>
+          <div class="row">
+            {{#slides}}
+            <div class="col-12 col-lg-6 mt-3">
+              <!-- Slide -->
+              <div class="feed-carousel__slide feed-carousel__slide_no-hover mx-3">
+                <a href="#" class="d-block slide-outer" style="background-image: url(assets/img/{{slide-name}}.jpg);"></a>
+                <div class="info-section">
+                  <h4><a href="#">{{slide-title}}</a></h4>
+                  <p>{{slide-description}}</p>
+                  <span>
+                    02/06/2018
+                  </span>
+                </div>
+              </div>
+              <!-- /Slide -->
+            </div>
+            {{/slides}}
+          </div>
+        </div>
+      </div>
+      <div class="col-12 col-lg-10 mt-4">
+        <ul class="pagination-nav">
+          <li><a href="#"></a></li>
+          <li><a href="#">1</a></li>
+          <li class="current"><a href="#">2</a></li>
+          <li><a href="#">3</a></li>
+          <li>...</li>
+          <li><a href="#">10</a></li>
+          <li><a href="#"></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+{{/news-teasers}}

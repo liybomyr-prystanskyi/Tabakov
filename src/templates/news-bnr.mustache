@@ -1,0 +1,21 @@
+{{#news-carousel}}
+<section class="main-carousel">
+  <div class="container main-container">
+    <div class="row no-gutters">
+      <div class="col-12">
+        <!-- Carousel -->
+        <div data-js="main-carousel">
+          {{#slides}}
+          <!-- Slide -->
+          <div class="main-carousel__slide main-carousel__slide_one main-carousel__slide_one__white-text">
+            <div class="slide-outer" style="background-image: url(assets/img/{{slide-name}}.jpg);"></div>
+          </div>
+          <!-- /Slide -->
+          {{/slides}}
+        </div>
+        <!-- /Carousel -->
+      </div>
+    </div>
+  </div>
+</section>
+{{/news-carousel}}

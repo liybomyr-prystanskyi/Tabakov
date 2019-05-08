@@ -1,0 +1,9 @@
+{
+    "server": {
+        "baseDir": "./build",
+        "serveStaticOptions": {
+            "extensions": ["html"]
+        }        
+    },
+    "notify": false
+}

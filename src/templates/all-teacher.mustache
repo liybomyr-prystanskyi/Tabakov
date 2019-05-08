@@ -1,0 +1,42 @@
+{{#all-teacher}}
+<section class="content-block">
+  <div class="container main-container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-10">
+        <div class="row">
+          <div class="col-12">
+            <div class="section-title">
+              <div data-parent="{{data-feed-title}}" class="txt-shadow txt-feed">
+                <h2>
+                  {{about-title}}
+                </h2>
+                <p>Кожен викладач в нашій команді - являється професіоналом в своєму напрямку.
+                  Вміння передати свій досвід і майстерність в роботі з дітьми - найважливіша якість наших викладачів!
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          {{#slides}}
+          <div class="col-12 col-sm-6 col-md-4 teacher-block">
+            <div class="w-100">
+              <!-- Slide -->
+              <div class="slide mx-3">
+                <div class="slide-outer" style="background-image: url(assets/img/{{slide-name}}.jpg);"></div>
+                <div class="info-section text-center">
+                  <h4>{{slide-title}}</h4>
+                  <p>{{slide-description}}</p>
+                  <a href="#" class="btn btn_slide-more">Дізнитись більше</a>
+                </div>
+              </div>
+              <!-- /Slide -->
+            </div>
+          </div>
+          {{/slides}}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{/all-teacher}}

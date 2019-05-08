@@ -1,0 +1,1259 @@
+{
+  "home": {
+    "head": {
+      "title": "Home"
+    },
+    "header": {
+      "nav-items": [
+        {
+          "current": true,
+          "nav-item-text": "Про школу"
+        },
+        {
+          "nav-item-text": "Напрямки"
+        },
+        {
+          "nav-item-text": "Викладачі"
+        },
+        {
+          "nav-item-text": "Педагоги"
+        },
+        {
+          "nav-item-text": "Новини"
+        },
+        {
+          "nav-item-text": "Контакти"
+        }
+      ]
+    },
+    "schools": {
+      "about-title": "Напрямки",
+      "data-about-title": "Напрямки"
+    },
+    "main-carousel": {
+      "slide-description": "Ти унікальний!",
+      "slides": [
+        {
+          "slide-name": "slide-1",
+          "slide-title": " Творча школа Павла Табакова",
+          "slide-btn-text": "Записатись на заняття"
+        },
+        {
+          "slide-name": "slide-1",
+          "slide-title": " Творча школа Павла Табакова",
+          "slide-btn-text": "Записатись на заняття"
+        },
+        {
+          "slide-name": "slide-1",
+          "slide-title": " Творча школа Павла Табакова",
+          "slide-btn-text": "Записатись на заняття"
+        },
+        {
+          "slide-name": "slide-1",
+          "slide-title": " Творча школа Павла Табакова",
+          "slide-btn-text": "Записатись на заняття"
+        }
+      ]
+    },
+    "about": {
+      "title": "У творчій школі Павла Табакова",
+      "concert-title-data": "",
+      "slide-btn-text": "Дізнатись більше",
+      "paragraphs": [
+        {
+          "text-about": "Це креативна школа для творчих натур, яким пророковано стати видатними співаками, танцюристами, хореографами та акторами."
+        },
+        {
+          "text-about": "Бажання творчо розвиватись і хоч краплинка таланту - цього вже достатньо, щоб ми перетворили твій природний хист на цілий океан можливостей та реалізованих творчих ідей."
+        },
+        {
+          "text-about": "Ти унікальний і ти заслуговуєш на кращих креативних наставників та викладачів з Total Art School, яку заснував професійний співак, композитор і аранжувальник Павло Табаков."
+        }
+      ],
+      "image-name": "сhildren.jpg"
+    },
+    "advantages-section": {
+      "title-data-advantages": "Наші переваги",
+      "title": "Наші переваги",
+      "item-info": [
+        {
+          "image": "assets/img/green-medal.png",
+          "title": "Перевага 1",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "image": "assets/img/violet-medal.png",
+          "title": "Перевага 2",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "image": "assets/img/yellow-medal.png",
+          "title": "Перевага 3",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        },
+        {
+          "image": "assets/img/blue-medal.png",
+          "title": "Перевага 4",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        }
+      ]
+    },
+    "teachers-carousel": {
+      "data-teachers-title": "Викладачі",
+      "about-title": "Викладачі",
+      "slides": [
+        {
+          "slide-name": "teacher-1",
+          "slide-title": "Bria Blessing",
+          "slide-description": "Викладач Волкалу"
+        },
+        {
+          "slide-name": "teacher-2",
+          "slide-title": "Павло Табаков",
+          "slide-description": "Засновник та творчий директор"
+        },
+        {
+          "slide-name": "teacher-3",
+          "slide-title": "Уляна Фарина",
+          "slide-description": "Викладач Волкалу"
+        },
+        {
+          "slide-name": "teacher-1",
+          "slide-title": "Bria Blessing",
+          "slide-description": "Викладач Волкалу"
+        },
+        {
+          "slide-name": "teacher-2",
+          "slide-title": "Павло Табаков",
+          "slide-description": "Викладач Волкалу"
+        },
+        {
+          "slide-name": "teacher-3",
+          "slide-title": "Уляна Фарина",
+          "slide-description": "Викладач Волкалу"
+        }
+      ]
+    },
+    "feed-carousel": {
+      "data-feed-title": "Новини",
+      "about-title": "Новини",
+      "slides": [
+        {
+          "slide-name": "feed-1",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        },
+        {
+          "slide-name": "feed-2",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        },
+        {
+          "slide-name": "feed-1",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        },
+        {
+          "slide-name": "feed-2",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        }
+      ]
+    },
+    "concert-section": {
+      "title": "Концертний склад",
+      "concert-title-data": "Концертний"
+    },
+    "testimonials": {
+      "title-data": "Відгуки",
+      "title": "Відгуки"
+    },
+    "contacts": {
+      "about-title": "Контакти",
+      "data-contact-title": "Контакти"
+    },
+    "foot": {
+      "vendor-scripts": {
+        "jquery": true,
+        "slick-slider": true,
+        "aos": false
+      }
+    }
+  },
+  "vocal": {
+    "head": {
+      "title": "Vocal"
+    },
+    "header": {
+      "nav-items": [
+        {
+          "nav-item-text": "Головна"
+        },
+        {
+          "nav-item-text": "Про школу"
+        },
+        {
+          "current": true,
+          "nav-item-text": "Послуги"
+        },
+        {
+          "nav-item-text": "Педагоги"
+        },
+        {
+          "nav-item-text": "Новини"
+        },
+        {
+          "nav-item-text": "Контакти"
+        }
+      ]
+    },
+    "main-carousel": {
+      "slides": [
+        {
+          "slide-description": "у Творчій школі Павла Табакова",
+          "slide-name": "vocal-baner",
+          "slide-title": "Школа вокалу",
+          "slide-btn-text": "Записатись на заняття"
+        },
+        {
+          "slide-description": "у Творчій школі Павла Табакова",
+          "slide-name": "vocal-baner",
+          "slide-title": "Школа вокалу",
+          "slide-btn-text": "Записатись на заняття"
+        },
+        {
+          "slide-description": "у Творчій школі Павла Табакова",
+          "slide-name": "vocal-baner",
+          "slide-title": "Школа вокалу",
+          "slide-btn-text": "Записатись на заняття"
+        }
+      ]
+    },
+    "about": {
+      "title": "Вокал у творчій школі Павла Табакова",
+      "concert-title-data": "",
+      "slide-btn-text": "Записатись на заняття",
+      "paragraphs": [
+        {
+          "text-about": "Це можливість відкрити свої таланти, співати серцем і відчувати музику кожною клітинкою свого тіла.  Тут ти розвиватимеш свої вокальні здібності з професійними співаками, композиторами та аранжувальниками."
+        },
+        {
+          "text-about": "Майстерні викладачі допоможуть тобі позбутись страху перед сценою та великою публікою. Вони, як ніхто інший, підготують тебе до конкурсу, фестивалю, бо самі колись були на твоєму місці.  У Total Art School ти зможеш вивчати музичну грамоту та різні стилі вокалу."
+        },
+        {
+          "text-about": "<b>Заняття для дорослих тільки індивідуальні!</b>"
+        }
+      ],
+      "image-name": "vocal-about-img.jpg"
+    },
+    "teaching-program": {
+      "about-title": "Програма навчання",
+      "data-about-title": "Програма навчання"
+    },
+    "teachers-carousel": {
+      "data-teachers-title": "Викладачі",
+      "about-title": "Викладачі",
+      "slides": [
+        {
+          "slide-name": "teacher-1",
+          "slide-title": "Bria Blessing",
+          "slide-description": "Викладач Волкалу"
+        },
+        {
+          "slide-name": "teacher-2",
+          "slide-title": "Павло Табаков",
+          "slide-description": "Засновник та творчий директор"
+        },
+        {
+          "slide-name": "teacher-3",
+          "slide-title": "Уляна Фарина",
+          "slide-description": "Викладач Волкалу"
+        },
+        {
+          "slide-name": "teacher-1",
+          "slide-title": "Bria Blessing",
+          "slide-description": "Викладач Волкалу"
+        },
+        {
+          "slide-name": "teacher-2",
+          "slide-title": "Павло Табаков",
+          "slide-description": "Викладач Волкалу"
+        },
+        {
+          "slide-name": "teacher-3",
+          "slide-title": "Уляна Фарина",
+          "slide-description": "Викладач Волкалу"
+        }
+      ]
+    },
+    "price-section": {
+      "title": "Вартість навчання",
+      "data-about-title": "Вартість навчання"
+    },
+    "gallery-carousel": {
+      "about-title": "Галерея",
+      "data-about-title": "Галерея",
+      "gallery-btn": "",
+      "slides": [
+        {
+          "slide-name-1": "gallery-item-1",
+          "slide-name-2": "gallery-item-2",
+          "slide-name-3": "gallery-item-3",
+          "slide-name-4": "gallery-item-4",
+          "slide-name-5": "gallery-item-5",
+          "slide-name-6": "gallery-item-6"
+        },
+        {
+          "slide-name-1": "gallery-item-1",
+          "slide-name-2": "gallery-item-2",
+          "slide-name-3": "gallery-item-3",
+          "slide-name-4": "gallery-item-4",
+          "slide-name-5": "gallery-item-5",
+          "slide-name-6": "gallery-item-6"
+        },
+        {
+          "slide-name-1": "gallery-item-1",
+          "slide-name-2": "gallery-item-2",
+          "slide-name-3": "gallery-item-3",
+          "slide-name-4": "gallery-item-4",
+          "slide-name-5": "gallery-item-5",
+          "slide-name-6": "gallery-item-6"
+        }
+      ],
+      "slides-min": [
+        {
+          "slide-name": "gallery-item-1"
+        },
+        {
+          "slide-name": "gallery-item-2"
+        },
+        {
+          "slide-name": "gallery-item-3"
+        },
+        {
+          "slide-name": "gallery-item-4"
+        },
+        {
+          "slide-name": "gallery-item-5"
+        },
+        {
+          "slide-name": "gallery-item-6"
+        }
+      ]
+    },
+    "about-table": {
+      "about-title": "Розклад занять",
+      "data-about-title": "Розклад занять",
+      "about": {
+        "slide-btn-text": "Записатись на заняття"
+      }
+    },
+    "feed-carousel": {
+      "data-feed-title": "Новини",
+      "about-title": "Новини",
+      "slides": [
+        {
+          "slide-name": "feed-1",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        },
+        {
+          "slide-name": "feed-2",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        },
+        {
+          "slide-name": "feed-1",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        },
+        {
+          "slide-name": "feed-2",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        }
+      ]
+    },
+    "contacts": {
+      "about-title": "Контакти",
+      "data-contact-title": "Контакти"
+    },
+    "foot": {
+      "vendor-scripts": {
+        "jquery": true,
+        "slick-slider": true,
+        "aos": false,
+        "sort-table": true
+      }
+    }
+  },
+  "about-school": {
+    "head": {
+      "title": "About"
+    },
+    "header": {
+      "nav-items": [
+        {
+          "nav-item-text": "Головна"
+        },
+        {
+          "current": true,
+          "nav-item-text": "Про школу"
+        },
+        {
+          "nav-item-text": "Послуги"
+        },
+        {
+          "nav-item-text": "Педагоги"
+        },
+        {
+          "nav-item-text": "Новини"
+        },
+        {
+          "nav-item-text": "Контакти"
+        }
+      ]
+    },
+    "about": {
+      "title": "Творча школа Павла Табакова",
+      "concert-title-data": "",
+      "slide-btn-text": "",
+      "paragraphs": [
+        {
+          "text-about": "Це креативна школа для творчих натур, яким пророковано стати видатними співаками, танцюристами, хореографами та акторами."
+        },
+        {
+          "text-about": "Бажання творчо розвиватись і хоч краплинка таланту - цього вже достатньо, щоб ми перетворили твій природний хист на цілий океан можливостей та реалізованих творчих ідей."
+        },
+        {
+          "text-about": "Ти унікальний і ти заслуговуєш на кращих креативних наставників та викладачів з Total Art School, яку заснував професійний співак, композитор і аранжувальник Павло Табаков."
+        }
+      ],
+      "image-name": "сhildren.jpg"
+    },
+    "main-carousel": {
+      "slides": [
+        {
+          "slide-url": "assets/img/slide-1.jpg",
+          "slide-title": "Про нас"
+        }
+      ]
+    },
+    "reasons": {
+      "about-title": "Чому ми?",
+      "data-about-title": "Чому ми?"
+    },
+    "teachers-carousel": {
+      "data-teachers-title": "Викладачі",
+      "about-title": "Викладачі",
+      "slides": [
+        {
+          "slide-name": "teacher-1",
+          "slide-title": "Bria Blessing",
+          "slide-description": "Викладач Волкалу"
+        },
+        {
+          "slide-name": "teacher-2",
+          "slide-title": "Павло Табаков",
+          "slide-description": "Засновник та творчий директор"
+        },
+        {
+          "slide-name": "teacher-3",
+          "slide-title": "Уляна Фарина",
+          "slide-description": "Викладач Волкалу"
+        },
+        {
+          "slide-name": "teacher-1",
+          "slide-title": "Bria Blessing",
+          "slide-description": "Викладач Волкалу"
+        },
+        {
+          "slide-name": "teacher-2",
+          "slide-title": "Павло Табаков",
+          "slide-description": "Викладач Волкалу"
+        },
+        {
+          "slide-name": "teacher-3",
+          "slide-title": "Уляна Фарина",
+          "slide-description": "Викладач Волкалу"
+        }
+      ]
+    },
+    "foot": {
+      "vendor-scripts": {
+        "jquery": true,
+        "slick-slider": true,
+        "aos": false
+      }
+    },
+    "gallery-carousel": {
+      "about-title": "Галерея",
+      "data-about-title": "Галерея",
+      "gallery-btn": "Побачити більше",
+      "slides": [
+        {
+          "slide-name-1": "gallery-item-1",
+          "slide-name-2": "gallery-item-2",
+          "slide-name-3": "gallery-item-3",
+          "slide-name-4": "gallery-item-4",
+          "slide-name-5": "gallery-item-5",
+          "slide-name-6": "gallery-item-6"
+        },
+        {
+          "slide-name-1": "gallery-item-1",
+          "slide-name-2": "gallery-item-2",
+          "slide-name-3": "gallery-item-3",
+          "slide-name-4": "gallery-item-4",
+          "slide-name-5": "gallery-item-5",
+          "slide-name-6": "gallery-item-6"
+        },
+        {
+          "slide-name-1": "gallery-item-1",
+          "slide-name-2": "gallery-item-2",
+          "slide-name-3": "gallery-item-3",
+          "slide-name-4": "gallery-item-4",
+          "slide-name-5": "gallery-item-5",
+          "slide-name-6": "gallery-item-6"
+        }
+      ],
+      "slides-min": [
+        {
+          "slide-name": "gallery-item-1"
+        },
+        {
+          "slide-name": "gallery-item-2"
+        },
+        {
+          "slide-name": "gallery-item-3"
+        },
+        {
+          "slide-name": "gallery-item-4"
+        },
+        {
+          "slide-name": "gallery-item-5"
+        },
+        {
+          "slide-name": "gallery-item-6"
+        }
+      ]
+    },
+    "achievement-section": {
+      "title-default": "Досягнення та нагороди",
+      "title": "Досягнення та нагороди",
+      "item-info": [
+        {
+          "image": "assets/img/cup.png",
+          "title": "112 міжнародних нагород",
+          "description": "Ми пропонуємо вам широкий діапазон можливостей по конкурентноспроможній ціні. І це робить нас кращими в своїй галузі"
+        },
+        {
+          "image": "assets/img/student.png",
+          "title": "7327 учнів",
+          "description": "Популярні телеведучі, артисти естради, актори театру, які успішно працюють по всьому світу"
+        },
+        {
+          "image": "assets/img/microphon.png",
+          "title": "10 авторских мюзиклов",
+          "description": "Легендарний спектакль-елегія '45 хвилин', музичний спектакль 'Мінськ - моя сім'я' та ін."
+        },
+        {
+          "image": "assets/img/performance.png",
+          "title": "1018 виступів",
+          "description": "На найбільших сценах Європи, міжнародних фестивалях та театральних сценах"
+        }
+      ]
+    },
+    "feed-carousel": {
+      "data-feed-title": "Новини",
+      "about-title": "Новини",
+      "slides": [
+        {
+          "slide-name": "feed-1",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        },
+        {
+          "slide-name": "feed-2",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        },
+        {
+          "slide-name": "feed-1",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        },
+        {
+          "slide-name": "feed-2",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        }
+      ]
+    },
+    "additional-information": {
+      "about-title": "Безпека та дисципліна для ваших дітей",
+      "data-about-title": "Безпека для дітей"
+    },
+    "contacts": {
+      "about-title": "Контакти",
+      "data-contact-title": "Контакти"
+    }
+  },
+  "open-news": {
+    "head": {
+      "title": "Open news"
+    },
+    "header": {
+      "nav-items": [
+        {
+          "nav-item-text": "Головна"
+        },
+        {
+          "nav-item-text": "Про школу"
+        },
+        {
+          "nav-item-text": "Послуги"
+        },
+        {
+          "nav-item-text": "Педагоги"
+        },
+        {
+          "current": true,
+          "nav-item-text": "Новини"
+        },
+        {
+          "nav-item-text": "Контакти"
+        }
+      ]
+    },
+    "news-carousel": {
+      "slides": {
+        "slide-name": "open-news-baner"
+      }
+    },
+    "news": {
+      "data-about-title": "",
+      "about-title": "Українські фестивалі 2018, які не можна пропустити"
+    },
+    "news-teasers": {
+      "data-feed-title": "Інші новини",
+      "about-title": "Інші новини",
+      "slides": [
+        {
+          "slide-name": "feed-1",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        },
+        {
+          "slide-name": "feed-2",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        },
+        {
+          "slide-name": "gallery-item-1",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        },
+        {
+          "slide-name": "сhildren",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        },
+        {
+          "slide-name": "gallery-item-5",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        },
+        {
+          "slide-name": "gallery-item-3",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        }
+      ]
+    },
+    "contacts": {
+      "about-title": "Контакти",
+      "data-contact-title": "Контакти"
+    },
+    "foot": {
+      "vendor-scripts": {
+        "jquery": true,
+        "slick-slider": true,
+        "aos": false,
+        "sort-table": true
+      }
+    }
+  },
+  "list-news": {
+    "head": {
+      "title": "News"
+    },
+    "header": {
+      "nav-items": [
+        {
+          "nav-item-text": "Головна"
+        },
+        {
+          "nav-item-text": "Про школу"
+        },
+        {
+          "nav-item-text": "Послуги"
+        },
+        {
+          "nav-item-text": "Педагоги"
+        },
+        {
+          "current": true,
+          "nav-item-text": "Новини"
+        },
+        {
+          "nav-item-text": "Контакти"
+        }
+      ]
+    },
+    "news-teasers": {
+      "additional-classes": "",
+      "data-feed-title": "Новини",
+      "about-title": "Новини",
+      "slides": [
+        {
+          "slide-name": "feed-1",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        },
+        {
+          "slide-name": "feed-2",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        },
+        {
+          "slide-name": "gallery-item-1",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        },
+        {
+          "slide-name": "сhildren",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        },
+        {
+          "slide-name": "gallery-item-5",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        },
+        {
+          "slide-name": "gallery-item-3",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        },
+        {
+          "slide-name": "gallery-item-4",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        },
+        {
+          "slide-name": "children-2",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        },
+        {
+          "slide-name": "gallery-item-2",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        },
+        {
+          "slide-name": "gallery-item-6",
+          "slide-title": "Українські фестивалі-2018,  які не можна пропустити",
+          "slide-description": "Весна – час складати плани на літо! А яке ж літо без хоча б кількох гарячих музичних фестивалів? На щастя, вітчизняні фести не дуже поступаються закордонним. Весна – час складати плани на літо..."
+        }
+      ]
+    },
+    "contacts": {
+      "about-title": "Контакти",
+      "data-contact-title": "Контакти"
+    },
+    "foot": {
+      "vendor-scripts": {
+        "jquery": true,
+        "slick-slider": true,
+        "aos": false,
+        "sort-table": true
+      }
+    }
+  },
+  "current-teacher": {
+    "head": {
+      "title": "Current teacher"
+    },
+    "header": {
+      "nav-items": [
+        {
+          "nav-item-text": "Головна"
+        },
+        {
+          "nav-item-text": "Про школу"
+        },
+        {
+          "nav-item-text": "Послуги"
+        },
+        {
+          "current": true,
+          "nav-item-text": "Педагоги"
+        },
+        {
+          "nav-item-text": "Новини"
+        },
+        {
+          "nav-item-text": "Контакти"
+        }
+      ]
+    },
+    "about": {
+      "title": "Табаков Павло Анатолійович",
+      "title-desk": true,
+      "additional-classes": "pt-50",
+      "add-class": "text-left",
+      "about-title": "Табаков Павло Андрійович",
+      "concert-title-data": "Табаков Павло",
+      "slide-btn-text": "Записатись на заняття",
+      "paragraphs": [
+        {
+          "text-about": "Професійних співак, композитор і аранжувальник. Переможець двох вокальних проектів <b>“Шанс”</b> і <b>“Голос країни”</b> і просто людина з великим музичним і сценічним досвідом."
+        },
+        {
+          "text-about": "Він загорівся створенням школи і творчими ідеями для її реалізації, коли відвідав десятки різноманітиних шоу і концертів у Сполучених Штатах і Європі. Після того почав створювати нові пісні у таких жанрах, писати музику і пісні до кінофільмів і активно працювати над створенням власних мюзиклів."
+        },
+        {
+          "text-about": "“Ця любов надихає мене, хочеться поділитися нею з великою кількістю дорослих і дітей!” Саме вони,учні нашої школи, своїм креативом реалізують і підсилять створений для них творчий матеріал. Я дозрів до того моменту, коли хочу поділитися своїм досвідом з іншими, а особливо з молодим поколінням."
+        },
+        {
+          "text-about": "Хочу допомогти молодим людям реалізувати їхні таланти і прийти до цілей, яких вони прагнуть у творчості. Саме тому, з’явилися ідея і реалізація креативної школи <b>“Павла Табакова”!</b>"
+        }
+      ],
+      "image-name": "tabakov.jpg"
+    },
+    "teachers-carousel": {
+      "data-teachers-title": "Інші викладачі",
+      "about-title": "Інші Викладачі",
+      "slides": [
+        {
+          "slide-name": "teacher-1",
+          "slide-title": "Bria Blessing",
+          "slide-description": "Викладач Волкалу"
+        },
+        {
+          "slide-name": "teacher-4",
+          "slide-title": "Зоряна Чоловська",
+          "slide-description": "Викладач Вокалу"
+        },
+        {
+          "slide-name": "teacher-3",
+          "slide-title": "Уляна Фарина",
+          "slide-description": "Викладач Волкалу"
+        },
+        {
+          "slide-name": "teacher-1",
+          "slide-title": "Bria Blessing",
+          "slide-description": "Викладач Волкалу"
+        },
+        {
+          "slide-name": "teacher-4",
+          "slide-title": "Зоряна Чоловська",
+          "slide-description": "Викладач Волкалу"
+        },
+        {
+          "slide-name": "teacher-3",
+          "slide-title": "Уляна Фарина",
+          "slide-description": "Викладач Волкалу"
+        }
+      ]
+    },
+    "schools": {
+      "about-title": "Напрямки",
+      "data-about-title": "Напрямки"
+    },
+    "contacts": {
+      "about-title": "Контакти"
+    },
+    "foot": {
+      "vendor-scripts": {
+        "jquery": true,
+        "slick-slider": true,
+        "aos": false
+      }
+    }
+  },
+  "teacher-main": {
+    "head": {
+      "title": "Teacher"
+    },
+    "header": {
+      "nav-items": [
+        {
+          "nav-item-text": "Головна"
+        },
+        {
+          "nav-item-text": "Про школу"
+        },
+        {
+          "nav-item-text": "Послуги"
+        },
+        {
+          "current": true,
+          "nav-item-text": "Педагоги"
+        },
+        {
+          "nav-item-text": "Новини"
+        },
+        {
+          "nav-item-text": "Контакти"
+        }
+      ]
+    },
+    "all-teacher": {
+      "data-feed-title": "Викладачі",
+      "about-title": "Викладачі",
+      "slides": [
+        {
+          "slide-name": "teacher-1",
+          "slide-title": "Bria Blessing",
+          "slide-description": "Викладач волкалу"
+        },
+        {
+          "slide-name": "teacher-2",
+          "slide-title": "Павло Табаков",
+          "slide-description": "Засновник та творчий директор"
+        },
+        {
+          "slide-name": "teacher-3",
+          "slide-title": "Уляна Фарина",
+          "slide-description": "Викладач волкалу"
+        },
+        {
+          "slide-name": "teacher-5",
+          "slide-title": "Софія Сливка",
+          "slide-description": "Викладач волкалу"
+        },
+        {
+          "slide-name": "teacher-4",
+          "slide-title": "Зоряна Чоловська",
+          "slide-description": "Викладач волкалу"
+        },
+        {
+          "slide-name": "teacher-6",
+          "slide-title": "Дарина Тураш",
+          "slide-description": "Викладач хореографії"
+        },
+        {
+          "slide-name": "teacher-7",
+          "slide-title": "Мирослава Солук",
+          "slide-description": "Викладач акторської майстерності"
+        },
+        {
+          "slide-name": "teacher-8",
+          "slide-title": "Оксана Козакевич",
+          "slide-description": "Викладач акторської майстерності"
+        }
+      ]
+    },
+    "schools": {
+      "about-title": "Напрямки",
+      "data-about-title": "Напрямки"
+    },
+    "contacts": {
+      "about-title": "Контакти",
+      "data-contact-title": "Контакти"
+    },
+    "foot": {
+      "vendor-scripts": {
+        "jquery": true,
+        "slick-slider": true,
+        "aos": false
+      }
+    }
+  },
+  "vacancy": {
+    "head": {
+      "title": "Vacancy"
+    },
+    "header": {
+      "nav-items": [
+        {
+          "nav-item-text": "Головна"
+        },
+        {
+          "nav-item-text": "Про школу"
+        },
+        {
+          "nav-item-text": "Послуги"
+        },
+        {
+          "nav-item-text": "Педагоги"
+        },
+        {
+          "current": true,
+          "nav-item-text": "Новини"
+        },
+        {
+          "nav-item-text": "Контакти"
+        }
+      ]
+    },
+    "schools": {
+      "about-title": "Напрямки",
+      "data-about-title": "Напрямки"
+    },
+    "contacts": {
+      "about-title": "Контакти",
+      "data-contact-title": "Контакти"
+    },
+    "foot": {
+      "vendor-scripts": {
+        "jquery": true,
+        "slick-slider": true,
+        "aos": false,
+        "sort-table": true
+      }
+    },
+    "section-vacancy": {
+      "about-title": "Вакансія",
+      "data-about-title": "Вакансія"
+    }
+  },
+  "gallery-block": {
+    "head": {
+      "title": "Gallery"
+    },
+    "header": {
+      "nav-items": [
+        {
+          "nav-item-text": "Головна"
+        },
+        {
+          "nav-item-text": "Про школу"
+        },
+        {
+          "nav-item-text": "Послуги"
+        },
+        {
+          "nav-item-text": "Педагоги"
+        },
+        {
+          "current": true,
+          "nav-item-text": "Новини"
+        },
+        {
+          "nav-item-text": "Контакти"
+        }
+      ]
+    },
+    "gallery-carousel": {
+      "about-title": "Галерея",
+      "data-about-title": "Галерея",
+      "gallery-btn": "Побачити більше",
+      "slides": [
+        {
+          "slide-name-1": "gallery-item-1",
+          "slide-name-2": "gallery-item-2",
+          "slide-name-3": "gallery-item-3",
+          "slide-name-4": "gallery-item-4",
+          "slide-name-5": "gallery-item-5",
+          "slide-name-6": "gallery-item-6"
+        },
+        {
+          "slide-name-1": "gallery-item-1",
+          "slide-name-2": "gallery-item-2",
+          "slide-name-3": "gallery-item-3",
+          "slide-name-4": "gallery-item-4",
+          "slide-name-5": "gallery-item-5",
+          "slide-name-6": "gallery-item-6"
+        },
+        {
+          "slide-name-1": "gallery-item-1",
+          "slide-name-2": "gallery-item-2",
+          "slide-name-3": "gallery-item-3",
+          "slide-name-4": "gallery-item-4",
+          "slide-name-5": "gallery-item-5",
+          "slide-name-6": "gallery-item-6"
+        }
+      ],
+      "slides-min": [
+        {
+          "slide-name": "gallery-item-1"
+        },
+        {
+          "slide-name": "gallery-item-2"
+        },
+        {
+          "slide-name": "gallery-item-3"
+        },
+        {
+          "slide-name": "gallery-item-4"
+        },
+        {
+          "slide-name": "gallery-item-5"
+        },
+        {
+          "slide-name": "gallery-item-6"
+        }
+      ]
+    },
+    "schools": {
+      "about-title": "Напрямки",
+      "data-about-title": "Напрямки"
+    },
+    "contacts": {
+      "about-title": "Контакти",
+      "data-contact-title": "Контакти"
+    },
+    "foot": {
+      "vendor-scripts": {
+        "jquery": true,
+        "slick-slider": true,
+        "aos": false,
+        "sort-table": true
+      }
+    }
+  },
+  "gallery-page": {
+    "head": {
+      "title": "Gallery"
+    },
+    "header": {
+      "nav-items": [
+        {
+          "nav-item-text": "Головна"
+        },
+        {
+          "nav-item-text": "Про школу"
+        },
+        {
+          "nav-item-text": "Послуги"
+        },
+        {
+          "nav-item-text": "Педагоги"
+        },
+        {
+          "nav-item-text": "Новини"
+        },
+        {
+          "nav-item-text": "Контакти"
+        }
+      ]
+    },
+    "gallery-categories": {
+      "about-title": "Галерея",
+      "data-about-title": "Галерея"
+    },
+    "schools": {
+      "about-title": "Напрямки",
+      "data-about-title": "Напрямки"
+    },
+    "contacts": {
+      "about-title": "Контакти",
+      "data-contact-title": "Контакти"
+    },
+    "foot": {
+      "vendor-scripts": {
+        "jquery": true,
+        "slick-slider": true,
+        "aos": false,
+        "sort-table": true,
+        "bootstrap": true
+      }
+    }
+  },
+  "gallery-single": {
+    "head": {
+      "title": "Gallery"
+    },
+    "header": {
+      "nav-items": [
+        {
+          "nav-item-text": "Головна"
+        },
+        {
+          "nav-item-text": "Про школу"
+        },
+        {
+          "nav-item-text": "Послуги"
+        },
+        {
+          "nav-item-text": "Педагоги"
+        },
+        {
+          "nav-item-text": "Новини"
+        },
+        {
+          "nav-item-text": "Контакти"
+        }
+      ]
+    },
+    "gallery-carousel": {
+      "about-title": "Галерея",
+      "data-about-title": "Галерея",
+      "slides": [
+        {
+          "slide-name-1": "gallery-item-1",
+          "slide-name-2": "gallery-item-2",
+          "slide-name-3": "gallery-item-3",
+          "slide-name-4": "gallery-item-4",
+          "slide-name-5": "gallery-item-5",
+          "slide-name-6": "gallery-item-6"
+        },
+        {
+          "slide-name-1": "gallery-item-1",
+          "slide-name-2": "gallery-item-2",
+          "slide-name-3": "gallery-item-3",
+          "slide-name-4": "gallery-item-4",
+          "slide-name-5": "gallery-item-5",
+          "slide-name-6": "gallery-item-6"
+        },
+        {
+          "slide-name-1": "gallery-item-1",
+          "slide-name-2": "gallery-item-2",
+          "slide-name-3": "gallery-item-3",
+          "slide-name-4": "gallery-item-4",
+          "slide-name-5": "gallery-item-5",
+          "slide-name-6": "gallery-item-6"
+        }
+      ],
+      "slides-min": [
+        {
+          "slide-name": "gallery-item-1"
+        },
+        {
+          "slide-name": "gallery-item-2"
+        },
+        {
+          "slide-name": "gallery-item-3"
+        },
+        {
+          "slide-name": "gallery-item-4"
+        },
+        {
+          "slide-name": "gallery-item-5"
+        },
+        {
+          "slide-name": "gallery-item-6"
+        }
+      ]
+    },
+    "schools": {
+      "about-title": "Напрямки",
+      "data-about-title": "Напрямки"
+    },
+    "contacts": {
+      "about-title": "Контакти",
+      "data-contact-title": "Контакти"
+    },
+    "foot": {
+      "vendor-scripts": {
+        "jquery": true,
+        "slick-slider": true,
+        "aos": false,
+        "sort-table": true,
+        "bootstrap": true
+      }
+    }
+  }
+}

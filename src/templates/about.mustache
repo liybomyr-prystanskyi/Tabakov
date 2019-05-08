@@ -1,0 +1,47 @@
+{{#about}}
+<section class="content-block about-section {{additional-classes}}">
+  <div class="container main-container">
+    <div class="row justify-content-center">
+      <div class="col-12 col-lg-10">
+        <div class="row justify-content-space-between">
+          <div class="col-12 col-md-12 col-lg-6">
+            <div class="d-flex flex-column h-100">
+              <div class="section-title section-title_b  txt-shadow_art">
+                <div data-parent="{{concert-title-data}}" class="txt-shadow txt-shadow_art">
+                  <h2>
+                    {{title}}
+                  </h2>
+                </div>
+                {{#title-desk}}
+                <div class="text-left title-desk mt-2">
+                  <span>
+                    Засновник та творчий директор
+                  </span>
+                </div>
+                {{/title-desk}}
+              </div>
+              <div class="text-about">
+                {{#paragraphs}}
+                <p>
+                  {{{text-about}}}
+                </p>
+                {{/paragraphs}}
+              </div>
+              {{#slide-btn-text}}
+              <div class="mt-auto">
+                <div class="btn-pos-min  {{add-class}}">
+                  <a href="#" class="btn btn_slide-more violet ">{{slide-btn-text}}</a>
+                </div>
+              </div>
+              {{/slide-btn-text}}
+            </div>
+          </div>
+          <div class="col-12 col-md-12 col-lg-6 about-img d-block d-lg-block" style="background-image: url(assets/img/сhildren.jpg);">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+</section>
+{{/about}}
